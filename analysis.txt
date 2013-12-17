@@ -1,0 +1,4 @@
+the time complexity for the pop command is O(1) because there is no shifting
+that occurs in the removal of the node, it simply deletes a pointer address to
+the location, which can be done in linear time.
+
